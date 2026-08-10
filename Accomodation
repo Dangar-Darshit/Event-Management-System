@@ -1,0 +1,13 @@
+🏨 Accommodation Module
+The Accommodation Module is designed to simplify guest stay management for events. It helps organizers assign rooms, track availability, and manage special requests — ensuring every attendee has a comfortable experience.
+
+✨ Features
+Room Allocation: Automatically assign rooms based on guest preferences and availability.
+
+Booking Management: Track check-in/check-out dates, cancellations, and modifications.
+
+Guest Profiles: Store details like dietary needs, accessibility requirements, and VIP status.
+
+Cost Tracking: Calculate accommodation expenses and generate invoices.
+
+Integration: Connect with the main Event Management System for seamless guest handling.
